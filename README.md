@@ -1,1 +1,1 @@
-<h1>Git Commands For the One that getting started with git and github</h1>
+<h1 align-content : center >Git Commands For the beginner</h1>
