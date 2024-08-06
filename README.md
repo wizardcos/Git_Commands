@@ -1,4 +1,4 @@
-<h1 align = "center" color = "blue" >Git Commands For the beginner</h1>
+<h1 align = "center" ; color = "blue" >Git Commands For the beginner</h1>
 
 ## 🛠 Cloning Repo or adding remote repo 
 
