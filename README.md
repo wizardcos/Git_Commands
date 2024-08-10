@@ -2,6 +2,11 @@
 
 ## 🛠 Cloning Repo or adding remote repo 
 
+1. For initilization a git repo
+
+   ```sh
+   git init
+   ```
 1. For Cloning an exsisting repo in local
 
    ```sh
@@ -71,7 +76,7 @@
 11. For creating a new branch
 
    ```sh
-   git chekout -b < neww branch name you want to have>
+   git branch < neww branch name you want to have>
    ```
 
 12. for checking the current branch you are on
@@ -90,5 +95,38 @@
 
    ```sh
    git merge <branch you want to merge>
+   ```
+15. for creating a new branch & moving into that branch 
+
+   ```sh
+   git checkout -b <name>
+   ```
+## 🚀 Deleting 
+16. Delete a local branch
+
+   ```sh
+   git branch -d <branch-name>
+   ```
+17. Delete a remote branch.
+
+   ```sh
+   git push origin --delete <branch-name>
+   ```
+## 🚀  Configuration
+18. Set your name in Git (global configuration).
+
+   ```sh
+   git config --global user.name "Your Name"
+   ```
+19. Set your email in Git (global configuration).
+
+   ```sh
+   git config --global user.email "you@example.com"
+   ```
+## 🚀  Help
+20.  Get help for a specific Git command.
+
+   ```sh
+   git help <command>
    ```
  <h3 align ="center" >Follow for more</h3>
