@@ -129,4 +129,4 @@
    ```sh
    git help <command>
    ```
- <h3 align ="center" >For any inquiries Email me</h3>
+ <h3 align ="center" >For any inquiries Email me thank you </h3>
